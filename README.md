@@ -1,3 +1,3 @@
 # TutorialPandas
-Continuação da criação do Professor Thiago Moura n\
+Continuação da criação do Professor Thiago Moura \
 Principais funcionalidades com o Pandas
